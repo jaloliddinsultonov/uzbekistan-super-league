@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58c5a3aa1d3221e4cb9472de8033ebc6, type: 3}
+  m_Name: SogdiyonaSO
+  m_EditorClassIdentifier: Assembly-CSharp::ClubData
+  clubName: So'g'diyona
+  logo: {fileID: -4867439870548826288, guid: 1029424f18a831a418f0d14e5bcb313d, type: 3}
+  primaryColor: {r: 1, g: 0.9803922, b: 0.9803922, a: 1}
+  secondaryColor: {r: 1, g: 0.627451, b: 0.4784314, a: 1}
+  attackMin: 63
+  attackMax: 71
+  defenseMin: 62
+  defenseMax: 70
+  moraleMin: 65
+  moraleMax: 73

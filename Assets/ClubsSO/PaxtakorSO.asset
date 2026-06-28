@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58c5a3aa1d3221e4cb9472de8033ebc6, type: 3}
+  m_Name: PaxtakorSO
+  m_EditorClassIdentifier: Assembly-CSharp::ClubData
+  clubName: Paxtakor
+  logo: {fileID: -3391464726700968755, guid: 5add1569d529e2c41baf14c7376fbf12, type: 3}
+  primaryColor: {r: 1, g: 0.9803922, b: 0.9803922, a: 1}
+  secondaryColor: {r: 0, g: 0, b: 0.5019608, a: 1}
+  attackMin: 82
+  attackMax: 90
+  defenseMin: 83
+  defenseMax: 89
+  moraleMin: 85
+  moraleMax: 92

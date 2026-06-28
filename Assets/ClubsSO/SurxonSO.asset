@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58c5a3aa1d3221e4cb9472de8033ebc6, type: 3}
+  m_Name: SurxonSO
+  m_EditorClassIdentifier: Assembly-CSharp::ClubData
+  clubName: Surxon
+  logo: {fileID: 4424887978300669504, guid: 044c21bb0cc6ae344b704ac0346a4e07, type: 3}
+  primaryColor: {r: 1, g: 0.9803922, b: 0.9803922, a: 1}
+  secondaryColor: {r: 0.16921788, g: 0.32188195, b: 0.7798742, a: 1}
+  attackMin: 59
+  attackMax: 67
+  defenseMin: 59
+  defenseMax: 67
+  moraleMin: 61
+  moraleMax: 69

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58c5a3aa1d3221e4cb9472de8033ebc6, type: 3}
+  m_Name: NavbahorSO
+  m_EditorClassIdentifier: Assembly-CSharp::ClubData
+  clubName: Navbahor
+  logo: {fileID: -8627577985476587552, guid: b3a17076f9fb76c45907d32544b6c3c4, type: 3}
+  primaryColor: {r: 1, g: 0.9803922, b: 0.9803922, a: 1}
+  secondaryColor: {r: 1, g: 1, b: 1, a: 0}
+  attackMin: 74
+  attackMax: 82
+  defenseMin: 75
+  defenseMax: 83
+  moraleMin: 77
+  moraleMax: 85

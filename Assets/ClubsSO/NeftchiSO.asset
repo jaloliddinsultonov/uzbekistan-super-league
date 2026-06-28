@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58c5a3aa1d3221e4cb9472de8033ebc6, type: 3}
+  m_Name: NeftchiSO
+  m_EditorClassIdentifier: Assembly-CSharp::ClubData
+  clubName: Neftchi
+  logo: {fileID: 7390386591784549902, guid: 0c932ae9a3892fe4785064ba28790a6a, type: 3}
+  primaryColor: {r: 1, g: 0.9803922, b: 0.9803922, a: 1}
+  secondaryColor: {r: 0, g: 0, b: 0, a: 0}
+  attackMin: 80
+  attackMax: 88
+  defenseMin: 80
+  defenseMax: 87
+  moraleMin: 83
+  moraleMax: 90
